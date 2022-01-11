@@ -1,0 +1,14 @@
+.outerbox{
+  display:flex;
+  justify-content: center;
+  border: 1px #c0bcbc solid;
+  border-radius: 1rem;
+  box-shadow: 1px 2px 8px 5px #c0bcbc;
+  flex-direction: column;
+  text-align:center ;
+  color:#585555;
+  scroll-behavior: smooth;
+  margin: 10vh;
+  margin-left: 40vh;
+  margin-right: 40vh;
+}

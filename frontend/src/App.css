@@ -1,0 +1,42 @@
+.App {
+  text-align: center;
+}
+
+.container { 
+  height: 200px;
+  position: relative;
+  padding-top: 100px;
+}
+.center{
+  margin: 0 auto;
+}
+.center1 {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.btn{
+  border: 2px solid #407df0; 
+  width: 100px;
+  margin-left: 20px;
+  margin-bottom: 5px;
+}
+.outerbox{
+  display:flex;
+  justify-content: center;
+  border: 1px #c0bcbc solid;
+  border-radius: 1rem;
+  box-shadow: 1px 2px 8px 5px #c0bcbc;
+  flex-direction: column;
+  text-align:center ;
+  color:#585555;
+
+  margin: 10vh;
+  margin-left: 40vh;
+  margin-right: 40vh;
+}
+.can{
+  display: flex;
+  flex-direction: row;
+}
